@@ -1,0 +1,33 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+nav{
+    background-color: transparent;
+}
+
+#head{
+    color: white;
+}
+
+.card-body{
+    background-color: rgb(200, 202, 220);
+}
+
+#head{
+    padding-bottom: 2.5%;
+}
+
+/* ---------------------ABOUT--------------------------- */
+.aboutHeader{
+    color: whitesmoke;
+    padding-inline-start: 2%;
+}
+
+p{
+    line-height: 20px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 2%;
+}
